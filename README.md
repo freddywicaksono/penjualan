@@ -1,2 +1,2 @@
 # penjualan
-Contoh aplikasi web dengan simplephp framework untuk membuat master-detail
+Contoh aplikasi desktop dengan python tkinter untuk membuat master-detail
